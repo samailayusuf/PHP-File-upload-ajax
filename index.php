@@ -23,7 +23,7 @@
 </head>
 
 <div class="container">
-<img src="img/upload.svg" width="300px" data-toggle="modal" data-target="#myModal"/>
+<img src="img/upload.svg" width="300px" data-toggle="modal" data-target="#myModal"/> <!--Opens up the modal -->
 
 <div class="response-data"></div>
 
